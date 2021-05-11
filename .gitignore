@@ -1,5 +1,8 @@
 *.jl.*.cov
 *.jl.cov
 *.jl.mem
+*.vscode
+.env
+junk_code.jl
 /Manifest.toml
 /docs/build/
