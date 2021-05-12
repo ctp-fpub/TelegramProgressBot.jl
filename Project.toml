@@ -8,6 +8,7 @@ ConfigEnv = "01234589-554d-41b7-ae5c-7b6ee2db6796"
 Telegram = "1da6f4ae-116c-4c38-8ee9-19974ff3601d"
 
 [compat]
+Telegram = "1.1"
 julia = "1"
 
 [extras]
