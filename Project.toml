@@ -9,6 +9,7 @@ Telegram = "1da6f4ae-116c-4c38-8ee9-19974ff3601d"
 
 [compat]
 Telegram = "1.1"
+ConfigEnv = "1.0"
 julia = "1"
 
 [extras]
